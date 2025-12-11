@@ -24,7 +24,7 @@ export const packages: Package[] = [
     subtitle: "Local / Budget Clients",
     description: "Perfect for personal profiles, student projects, or demo purposes.",
     suitableFor: "Personal profiles, student projects, or demo purposes",
-    startingPrice: "999/-",
+    startingPrice: "1,499/-",
     currency: "₹",
     billingNote: "One-time Website Development Cost",
     features: [
@@ -43,7 +43,7 @@ export const packages: Package[] = [
     subtitle: "Small to Medium Businesses",
     description: "Ideal for shops, small businesses, and professional portfolios.",
     suitableFor: "Shops, small businesses, portfolios",
-    startingPrice: "1,999/-",
+    startingPrice: "2,499/-",
     currency: "₹",
     billingNote: "One-time Development + Annual Domain & Hosting",
     highlighted: true,
@@ -63,7 +63,7 @@ export const packages: Package[] = [
     subtitle: "Professional / Startup Clients",
     description: "For startups requiring custom features, dashboards, or high traffic handling.",
     suitableFor: "Startups requiring custom features, dashboards, or high traffic",
-    startingPrice: "3,999/-",
+    startingPrice: "4,999/-",
     currency: "₹",
     billingNote: "One-time Development + Annual Bundle",
     features: [
